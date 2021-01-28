@@ -1,0 +1,15 @@
+ .appLogo {
+  width: min(22vw, 130px);
+  height: auto;
+  margin: 1em 0;
+}
+
+header {
+  background-color: white;
+  position: sticky;
+  top: 0;
+  padding: 0 10vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+.comboBox {
+  background-color: #FD5C4C;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 0.5em 1em 0.5em 1em;
+}
+.comboBox:focus {
+    box-shadow: 10px 10px 40px rgba(83, 77, 77, 0.5);
+    outline: none;
+}

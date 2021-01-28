@@ -1,0 +1,21 @@
+.container {
+  background-color: #FFF6EA;
+  min-height: 100vh;
+}
+
+main {
+  padding: 5vh 10vw 0 10vw;
+}
+
+.wrapper {
+  columns: 250px;
+  display: grid;
+  grid-gap: 2rem;
+  width: 80vw;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.spinnerContainer {
+  height: 100px;
+  margin: 30px;
+}
